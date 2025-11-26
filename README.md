@@ -24,5 +24,3 @@ It includes:
 - 🌐 **Gradio front-end**
 - 🖥 **CLI mode**
 
-## Project Structure
-
