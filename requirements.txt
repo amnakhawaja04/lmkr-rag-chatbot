@@ -1,4 +1,13 @@
-transformers
+
+
+accelerate
+bitsandbytes
 sentence-transformers
 faiss-cpu
-torch
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+gradio
+protobuf<5.0.0
+master
