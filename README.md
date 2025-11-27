@@ -5,14 +5,14 @@ A conversational AI assistant built using:
 - **LangChain RAG pipeline**
 - **FAISS vector store**
 - **HuggingFace embeddings**
-- **Gradio UI**
+- **Gradio & streanlit UI**
 
 The chatbot answers questions related to LMKR using only factual data from local `.txt` files.  
 It includes:
 - Reliable non-hallucinating contact extraction  
 - Partnership-aware routing  
 - Product & company info RAG  
-- CLI mode + Gradio web UI  
+- CLI mode + Gradio & streamlit web UI  
 
 ## Features
 
@@ -21,8 +21,7 @@ It includes:
 - 📁 **Context-aware partner listing**
 - ☎️ **Exact extraction of phone numbers, emails, links** (no hallucination)
 - 💬 **Conversational assistant with follow-up handling**
-- 🌐 **Gradio front-end**
+- 🌐 **Gradio & Streamlit front-end**
 - 🖥 **CLI mode**
 
-## Project Structure
 
